@@ -1,0 +1,2 @@
+console.log(window.navigator.geolocation)
+console.log(window.navigator.connection)
